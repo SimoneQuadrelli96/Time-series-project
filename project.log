@@ -1,0 +1,287 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.19)  9 JAN 2019 11:10
+entering extended mode
+**./project.tex
+(project.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\romannum\romannum.
+sty"
+Package: romannum 2009/09/03 v1.0b roman numerals
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stdclsdv\stdclsdv.
+sty"
+Package: stdclsdv 2009/09/04 v1.1a Sectional divisions
+))
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(project.aux)
+\openout1 = `project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box28
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+ [1
+
+{C:/Users/simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(project.toc)
+\tf@toc=\write3
+\openout3 = `project.toc'.
+
+ [1]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+<plot.PNG, id=11, 416.55624pt x 292.09125pt>
+File: plot.PNG Graphic file (type png)
+<use plot.PNG>
+Package pdftex.def Info: plot.PNG  used on input line 24.
+(pdftex.def)             Requested size: 416.55522pt x 292.09052pt.
+
+Overfull \hbox (26.55522pt too wide) in paragraph at lines 24--25
+[][] 
+ []
+
+[1]
+<m1_unit_root_test.PNG, id=21, 286.06876pt x 348.30125pt>
+File: m1_unit_root_test.PNG Graphic file (type png)
+<use m1_unit_root_test.PNG>
+Package pdftex.def Info: m1_unit_root_test.PNG  used on input line 30.
+(pdftex.def)             Requested size: 286.06805pt x 348.3004pt.
+ [2 <./plot.PNG>]
+<y1_unit_root_test.PNG, id=26, 247.42438pt x 309.155pt>
+File: y1_unit_root_test.PNG Graphic file (type png)
+<use y1_unit_root_test.PNG>
+Package pdftex.def Info: y1_unit_root_test.PNG  used on input line 37.
+(pdftex.def)             Requested size: 296.90776pt x 370.98413pt.
+ [3 <./m1_unit_root_test.PNG>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 42.
+<cointegration_test.PNG, id=31, 313.17pt x 275.52937pt>
+File: cointegration_test.PNG Graphic file (type png)
+<use cointegration_test.PNG>
+Package pdftex.def Info: cointegration_test.PNG  used on input line 45.
+(pdftex.def)             Requested size: 313.16922pt x 275.52869pt.
+ [4 <./y1_unit_root_test.PNG>]
+<beta_estimation.PNG, id=39, 310.15875pt x 219.82124pt>
+File: beta_estimation.PNG Graphic file (type png)
+<use beta_estimation.PNG>
+Package pdftex.def Info: beta_estimation.PNG  used on input line 50.
+(pdftex.def)             Requested size: 310.15799pt x 219.8207pt.
+ [5 <./cointegration_test.PNG>]
+<unit_root_spread_test.PNG, id=46, 279.0425pt x 345.79187pt>
+File: unit_root_spread_test.PNG Graphic file (type png)
+<use unit_root_spread_test.PNG>
+Package pdftex.def Info: unit_root_spread_test.PNG  used on input line 57.
+(pdftex.def)             Requested size: 279.04181pt x 345.79102pt.
+ [6 <./beta_estimation.PNG>] [7 <./unit_root_spread_test.PNG>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 69.
+
+("C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
+
+Overfull \hbox (9.28554pt too wide) in paragraph at lines 79--82
+\OT1/cmr/m/n/12 When sub-sti-tut-ing in the ex-pec-ta-tion (Eq. 3[]) into $\OML
+/cmm/m/it/12 i[] \OT1/cmr/m/n/12 = [](\OML/cmm/m/it/12 i[] \OT1/cmr/m/n/12 + []
+[] \OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 i[]\OT1/cmr/m/n/12 ))$
+,
+ []
+
+[8]
+<test_on_residuals.PNG, id=60, 314.67563pt x 209.78375pt>
+File: test_on_residuals.PNG Graphic file (type png)
+<use test_on_residuals.PNG>
+Package pdftex.def Info: test_on_residuals.PNG  used on input line 107.
+(pdftex.def)             Requested size: 314.67485pt x 209.78322pt.
+<expectation_hypothesis.PNG, id=61, 305.14pt x 254.45062pt>
+File: expectation_hypothesis.PNG Graphic file (type png)
+<use expectation_hypothesis.PNG>
+Package pdftex.def Info: expectation_hypothesis.PNG  used on input line 113.
+(pdftex.def)             Requested size: 305.13924pt x 254.45pt.
+ [9 <./test_on_residuals.PNG>]
+<beta_hypothesis_test.PNG, id=66, 246.42062pt x 187.70125pt>
+File: beta_hypothesis_test.PNG Graphic file (type png)
+<use beta_hypothesis_test.PNG>
+Package pdftex.def Info: beta_hypothesis_test.PNG  used on input line 119.
+(pdftex.def)             Requested size: 246.42pt x 187.70079pt.
+ [10 <./expectation_hypothesis.PNG>] [11 <./beta_hypothesis_test.PNG>] (project
+.aux) ) 
+Here is how much of TeX's memory you used:
+ 1655 strings out of 492970
+ 26000 string characters out of 3126593
+ 87048 words of memory out of 3000000
+ 5512 multiletter control sequences out of 15000+200000
+ 8848 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,8n,25p,1019b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/simon/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/simon/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/User
+s/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/simon/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/simon/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/simon/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmti12.pfb>
+Output written on project.pdf (13 pages, 351702 bytes).
+PDF statistics:
+ 120 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
